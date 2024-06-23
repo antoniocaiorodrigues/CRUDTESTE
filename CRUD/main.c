@@ -2,6 +2,7 @@
 #include"CVeiculo.h"
 #include"CVagas.h"
 #include"CSaidaEntrada.h"
+#include "ImprimirTicket.h"
 #include"Delete.h"
 
 int main(){
